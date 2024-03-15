@@ -1,0 +1,11 @@
+1 - Anotar o passo a passo de como pretende resolver essa demanda
+
+2 - Quais técnicas podem resolver esse problema
+2.1 - Ler planilhas: openpyxl
+2.2 - Criar arquivos word: python-docx
+
+3 - Passar as informações da planilha para o arquivo word
+
+4 - Salvar aquele arquivo word em uma pasta específica chamada "contratos"
+
+5 - Repetir para todas as linhas da planilha, ou seja, automatizar
